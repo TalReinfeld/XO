@@ -4,10 +4,15 @@ namespace Ex02
 {
     class Board
     {
-        private readonly Cell[,] m_Board;
-        private readonly int m_BoardSize;
+        private Cell[,] m_Board = null;
+        private int m_BoardSize = 0;
 
         public Board(int i_BoardSize)
+        {
+            CreateNewBoard(i_BoardSize);
+        }
+
+        public void CreateNewBoard(int i_BoardSize)
         {
             m_Board = new Cell[i_BoardSize, i_BoardSize];
             m_BoardSize = i_BoardSize;
@@ -24,6 +29,12 @@ namespace Ex02
         public int BoardSize
         {
             get { return m_BoardSize; }
+        }
+
+        public eSymbol this[int i_Row, int i_Col]
+        {
+            get { return m_Board[i_Row, i_Col].SymbolCell; }
+            set { m_Board[i_Row, i_Col].SymbolCell = value; }
         }
 
     }

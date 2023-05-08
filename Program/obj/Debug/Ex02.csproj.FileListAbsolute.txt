@@ -1,0 +1,9 @@
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\obj\Debug\Ex02.csprojAssemblyReference.cache
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\bin\Debug\Program.exe.config
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\bin\Debug\Program.exe
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\bin\Debug\Program.pdb
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\obj\Debug\Program.exe
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\obj\Debug\Program.pdb
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\talre\source\repos\B23 Ex02 Tal 206173023 David 206265183\Program\obj\Debug\Ex02.csproj.CopyComplete

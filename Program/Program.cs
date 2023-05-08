@@ -10,7 +10,7 @@ namespace Ex02
     {
         public static void Main()
         {
-            //UI.RunGame();
+            UI.RunGame();
         }
     }
 }
